@@ -1,0 +1,19 @@
+{
+  "name": "proxy-html-poc",
+  "version": "1.0.0",
+  "description": "POC modifying of payload of any site",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/john-e/proxy-html-inject.git"
+  },
+  "scripts": {
+    "test": "echo 'lol';"
+  },
+  "author": "Engit Prabhat <e.prabhat@sevensenders.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1"
+  }
+}
