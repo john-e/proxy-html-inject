@@ -8,7 +8,7 @@
     "url": "https://github.com/john-e/proxy-html-inject.git"
   },
   "scripts": {
-    "test": "echo 'lol';"
+    "start": "node ."
   },
   "author": "Engit Prabhat <e.prabhat@sevensenders.com>",
   "license": "MIT",
